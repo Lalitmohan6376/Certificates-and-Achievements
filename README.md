@@ -37,16 +37,4 @@ Other academic, technical, and professional achievements.
 * 🥇 Competition Achievements
 * 🌟 Other Recognitions
 
-## 📁 Repository Structure
-
-```text
-certificates-and-achievements/
-│
-├── internships/
-├── certifications/
-├── hackathons/
-├── achievements/
-└── README.md
-```
-
 📌 This repository serves as a collection of my **learning, professional experience, technical competitions, and achievements**.
