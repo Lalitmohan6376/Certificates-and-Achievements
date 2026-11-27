@@ -1,4 +1,4 @@
-# 📜 Certificates & Achievementsss
+# 📜 Certificates & Achievementss
 
 This repository contains my **certificates, internship documents, hackathon achievements, and other professional accomplishments** from my academic and technical journey. 🚀
 
